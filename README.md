@@ -15,3 +15,5 @@
 
 <li>Deploy to GitHub Pages.</li>
 </ol>
+<h1>Latitude - Latitude Analysis Dashboard with Attitude</>
+  <p>For this homework we'll be creating a visualization dashboard website using visualizations we've created in a past assignment. Specifically, we'll be plotting https://umn.bootcampcontent.com/University-of-Minnesota-Boot-Camp/uofm-stp-data-pt-12-2020-u-c/blob/master/02-Homework/11-Web/Instructions/Resources/cities.csv</p>
