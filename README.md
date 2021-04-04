@@ -1,4 +1,4 @@
-<h1>By Edris Gemtessa </h1>
+<h1>By <strong>Edris Gemtessa</strong> </h1>
 # WWeb Design - Web Visualization Dashboard (Latitude)
 <h1>Direction</h1>
 <ol>
