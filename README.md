@@ -66,4 +66,4 @@ Is responsive (using media queries). The nav must have similar behavior as the s
 
 
 <h1> To acceess the website you can click here</h1>
-https://github.com/edo2021/edo2021.github.io
+https://edo2021.github.io/
