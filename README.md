@@ -17,4 +17,7 @@
 </ol>
 <h1>Latitude - Latitude Analysis Dashboard with Attitude</>
   
-  <h2>For this homework we'll be creating a visualization dashboard website using visualizations we've created in a past assignment. Specifically, we'll be plotting</h2> <p>https://umn.bootcampcontent.com/University-of-Minnesota-Boot-Camp/uofm-stp-data-pt-12-2020-u-c/blob/master/02-Homework/11-Web/Instructions/Resources/cities.csv</p>
+  <h4>For this homework we'll be creating a visualization dashboard website using visualizations we've created in a past assignment. Specifically, we'll be plotting</h4> <p>https://umn.bootcampcontent.com/University-of-Minnesota-Boot-Camp/uofm-stp-data-pt-12-2020-u-c/blob/master/02-Homework/11-Web/Instructions/Resources/cities.csv</p>
+  
+  <h1> About Website</h1>
+  <h3>The website must consist of 7 pages total, including:</h3>
