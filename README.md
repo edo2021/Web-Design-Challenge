@@ -1,7 +1,7 @@
 # WWeb Design - Web Visualization Dashboard (Latitude)
 <h1>Direction</h1>
 <ol>
-<li>Create a new repository for this project called Web-Design-Challenge. Do not add this homework to an existing repository.</li>
+<li>Create a new repository for this project. Do not add this to an existing repository.</li>
 
 
 <li>Clone the new repository to your computer.</li>
