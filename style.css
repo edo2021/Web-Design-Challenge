@@ -1,6 +1,4 @@
-body {
-    background: rgb(207, 206, 205);
-}
+
 
 .navbar {
     background: white;
@@ -8,6 +6,9 @@ body {
 
 .navbar-nav  {
     margin-left: auto;
+}
+body {
+    background: rgb(207, 206, 205);
 }
 
 .box {
