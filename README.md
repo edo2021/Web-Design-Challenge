@@ -4,14 +4,14 @@
 <li>Create a new repository for this project called Web-Design-Challenge. Do not add this homework to an existing repository.</li>
 
 
-Clone the new repository to your computer.
+<li>Clone the new repository to your computer.</li>
 
 
-Inside your local git repository, add your html files, as well as your assets, Resources and visualizations folders. Your index.html should be the landing page that the user first sees.
+<li>Inside your local git repository, add your html files, as well as your assets, Resources and visualizations folders. Your index.html should be the landing page that the user first sees.</li>
 
 
-Push the above changes to GitHub or GitLab.
+<li>Push the above changes to GitHub or GitLab.</li>
 
 
-Deploy to GitHub Pages.
+<li>Deploy to GitHub Pages.</li>
 </ol>
