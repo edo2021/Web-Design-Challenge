@@ -1,4 +1,6 @@
-# WWeb Design - Web Visualization Dashboard (Latitude)
+<h1>By <strong>Edris Gemtessa</strong> </h1>
+<h1>At university of Minnesota<h1> 
+# Web Design - Web Visualization Dashboard (Latitude)
 <h1>Direction</h1>
 <ol>
 <li>Create a new repository for this project. Do not add this to an existing repository.</li>
